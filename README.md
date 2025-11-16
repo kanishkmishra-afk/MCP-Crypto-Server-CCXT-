@@ -1,4 +1,4 @@
-# MCP Crypto Server (CCXT)
+# MCP Crypto Server
 ## What this is
 A small Python FastAPI server that exposes MCP-style tool endpoints and a
 WebSocket stream to fetch cryptocurrency data using CCXT. Designed for
